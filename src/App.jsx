@@ -8,19 +8,19 @@ const mockData = [
   {
     id: 0,
     isDone: false,
-    content: "React 공부하기",
+    content: "카페인 에너지 음료1",
     date: new Date().getTime()
   },
   {
     id: 1,
     isDone: false,
-    content: "운동하기",
+    content: "카페인 에너지 음료2",
     date: new Date().getTime()
   },
   {
     id: 2,
     isDone: false,
-    content: "여행가기",
+    content: "아르기닌 에너지 음료",
     date: new Date().getTime()
   }
 ]
