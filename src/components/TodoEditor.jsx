@@ -1,0 +1,13 @@
+import React from 'react'
+import './TodoEditor.css';
+
+const TodoEditor = (params) => {
+  return (
+    <div className="Editor">
+      <input placeholder="새로운 Todo..." />
+      <button>추가</button>
+    </div>
+  );
+};
+
+export default TodoEditor;
