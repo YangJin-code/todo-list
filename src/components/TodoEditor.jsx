@@ -31,7 +31,7 @@ const TodoEditor = ({onCreate}) => {
         value={content}
         onKeyDown={onKeyDown}
         onChange={onChangeContent}
-        placeholder='새로운 Todo...'/>
+        placeholder='구매해야 할 물건...'/>
         <button onClick={onSubmit}>추가</button>
     </div>
   )

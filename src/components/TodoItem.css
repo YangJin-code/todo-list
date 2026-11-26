@@ -6,8 +6,8 @@
     border-bottom: 1px solid rgb(240,240,240);
 }
 
-.TodoItem input{
-}
+/* .TodoItem input{
+} */
 .TodoItem input[type="checkbox"]{
     cursor: pointer;
     width: 18px;
